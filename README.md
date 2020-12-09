@@ -12,3 +12,19 @@
 > The cipher text will have to correspond to qubits!
 
 > How far we've come from a caesar cipher!
+
+> Definitions:
+
+> Public key: a publicly available method to decrypt information
+
+> Private key: a private method to encrypt information
+
+> Cryptogram: encrypted information
+
+> Cipher: a list of what encrypts/decrypts to what or a method to get what information encrypts/decrypts to
+
+> Decryption: turning encrypted information into usable information
+
+> Cipher text: text to be encrypted
+
+> Caesar cipher: a method of encryption where each letter corresponds to another
